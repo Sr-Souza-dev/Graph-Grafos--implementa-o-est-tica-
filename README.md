@@ -3,7 +3,7 @@ Gabriel de Souza Rosa
 
 ---
 ## Apresentação
-A teoria dos grafos ou de grafos é um ramo da matemática que estuda as relações entre os objetos de um determinado conjunto. Para tal são empregadas estruturas chamadas de grafos, G(V,E){\displaystyle G(V,E)}, onde V {\displaystyle V}é um conjunto não vazio de objetos denominados vértices (ou nós) e E {\displaystyle E} (do inglês edges - arestas) é um subconjunto de pares não ordenados de V.
+A teoria dos grafos ou de grafos é um ramo da matemática que estuda as relações entre os objetos de um determinado conjunto. Para tal são empregadas estruturas chamadas de grafos, G(V,E), onde V é um conjunto não vazio de objetos denominados vértices (ou nós) e E (do inglês edges - arestas) é um subconjunto de pares não ordenados de V.
 <br> <br>
 Dependendo da aplicação, arestas podem ou não ter direção, pode ser permitido ou não arestas ligarem um vértice a ele próprio e vértices e/ou arestas podem ter um peso (numérico) associado. Se as arestas têm um sentido associado (indicado por uma seta na representação gráfica) temos um dígrafo (grafo orientado).
 <br> <br>
